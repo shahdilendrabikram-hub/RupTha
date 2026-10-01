@@ -1,0 +1,6 @@
+{
+  "name": "BOKA - Modern E-Commerce Platform",
+  "description": "A premium, dynamic full-stack e-commerce marketplace featuring customizable homepage sections, product variant matrix, Google image search API integration for catalog media, smart faceted search, customer portal, and comprehensive admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
